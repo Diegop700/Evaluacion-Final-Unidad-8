@@ -1,0 +1,103 @@
+[ {
+  "img" : "aguacate.jpg",
+  "name" : "Aguacate",
+  "price" : 300.00,
+  "stock" : 100
+},
+  {
+  "img" : "ajo.jpg", 
+  "name" : "Ajo",
+  "price" : 200.00,
+  "stock" : 300
+}, {
+  "img" : "almendras.jpg",
+  "name" : "Almendras",
+  "price" : 1500.00,
+  "stock" : 90
+} , {
+  "img" : "brocoli.jpg",
+  "name" : "Brocoli",
+  "price" : 210.00,
+  "stock" : 150
+}, {
+  "img" : "calabaza.jpg",
+  "name" : "Calabaza",
+  "price" : 310.00,
+  "stock" : 110
+}, {
+  "img" : "canela.jpg",
+  "name" : "Canela",
+  "price" : 30.00,
+  "stock" : 100
+}, {
+  "img" : "cebolla.jpg",
+  "name" : "Cebolla",
+  "price" : 15.99,
+  "stock" : 80
+}, {
+  "img" : "fresa.jpg",
+  "name" : "fresa",
+  "price" : 15.00,
+  "stock" : 100
+}, {
+  "img" : "kiwi.jpg",
+  "name" : "Kiwi",
+  "price" : 18.97,
+  "stock" : 99
+}, {
+  "img" : "limon.jpg",
+  "name" : "Limon",
+  "price" : 10.00,
+  "stock" : 10
+}, {
+  "img" : "lychee.jpg",
+  "name" : "Lychee",
+  "price" : 15.00,
+  "stock" : 100
+}, {
+  "img" : "maiz.jpg",
+  "name" : "Maiz",
+  "price" : 10.00,
+  "stock" : 100
+}, {
+  "img" : "manzana.jpg",
+  "name" : "Manzana",
+  "price" : 9.99,
+  "stock" : 500
+}, {
+  "img" : "naranja.jpg",
+  "name" : "Narana",
+  "price" : 8.99,
+  "stock" : 300
+}, {
+  "img" : "papa.jpg",
+  "name" : "Papa",
+  "price" : 7.99,
+  "stock" : 300
+}, {
+  "img" : "pasta.jpg",
+  "name" : "Pasta",
+  "price" : 3.00,
+  "stock" : 500
+}, {
+  "img" : "pimienta.jpg",
+  "name" : "Pimienta",
+  "price" : 6.99,
+  "stock" : 500
+}, {
+  "img" : "repollo.jpg",
+  "name" : "Repollo",
+  "price" : 3.99,
+  "stock" : 200
+}, {
+  "img" : "tomate.jpg",
+  "name" : "Tomate",
+  "price" : 3.00,
+  "stock" : 600
+}, {
+  "img" : "zanahoria.jpg",
+  "name" : "Zanahoria",
+  "price" : 6.50,
+  "stock" : 100
+}
+]
